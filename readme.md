@@ -1,7 +1,6 @@
 # Notebooks on Cloud-Robust Classification of Remote Sensing Time Series presentation at Phiweek 2019
 
-For the Transformer examples see [`Transformer.ipynb`](`Transformer.ipynb`)
-For the Recurrence examples see [`Recurrence.ipynb`](`Recurrence.ipynb`)
+For the Transformer examples see `Transformer.ipynb`, for the Recurrence examples see `Recurrence.ipynb`
 
 ### Setup
 
