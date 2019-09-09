@@ -1,6 +1,17 @@
-# Notebooks on Cloud-Robust Classification of Remote Sensing Time Series presentation at Phiweek 2019
+# Cloud-Robust Classification of Remote Sensing Time Series presentation at Phiweek 2019
 
-For the Transformer examples see `Transformer.ipynb`, for the Recurrence examples see `Recurrence.ipynb`
+Marc Rußwurm & Marco Körner,
+Chair of Remote Sensing Technology
+Technical University of Munich
+
+#### This repositotry contains qualitative examples of inference for Satellite Time Series classification for crop type identification.
+
+For the Transformer examples see `Transformer.ipynb`
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcCoru/phiweek19/blob/master/Transformer.ipynb)
+
+For the Recurrence examples see `Recurrence.ipynb`
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcCoru/phiweek19/blob/master/Recurrence.ipynb)
+
 
 ### Setup
 
