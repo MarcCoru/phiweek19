@@ -12,6 +12,9 @@ For the Transformer examples see `Transformer.ipynb`
 For the Recurrence examples see `Recurrence.ipynb`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcCoru/phiweek19/blob/master/Recurrence.ipynb)
 
+#### Presentation
+
+Slides are available at `presentation.pdf`
 
 ### Setup
 
