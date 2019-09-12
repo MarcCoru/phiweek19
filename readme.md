@@ -23,3 +23,32 @@ conda create -n phiweek19 pip jupyter
 conda activate phiweek19
 pip install -r requirements.txt
 ```
+
+### Presentaiton Recording
+
+[Phiweek Session (presentation starts 23m30s)](https://livestream.com/ESA/PhiWeek2019/videos/196081553)
+
+<iframe id="ls_embed_1568292058" src="https://livestream.com/accounts/362/events/8804174/videos/196081553/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+
+### Dataset separation
+
+To address the bias-varance question, we provide additional information on model training and model selection.
+
+This repository shows Results from the testset (orange) of the HOLL region in northern Bavaria.
+The model parameter were determined based on the training dataset. The hyperparameters were determined based on the performance on a 10% hold-back set from the trainset while training on the 90% of the remaining training dataset. 
+
+##### The regions Holl and Krum in Bavaria
+<img src=doc/regions.png width=100%>
+
+##### Testset (orange) and Trainset (blue) of the Holl region
+<img src=doc/holl.png width=99%>
+
+##### Testset (orange) and Trainset (blue) of the KRUM region
+<img src=doc/krum.png width=99%>
+
+#### Self-Attention Mechanism on Testset in Holl Region
+<img src=doc/self-attention-holl.png width=99%>
+
+
+#### Self-Attention Mechanism on Testset in Krum Region
+<img src=doc/self-attention-krum.png width=99%>
