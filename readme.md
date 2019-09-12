@@ -46,7 +46,9 @@ The model parameter were determined based on the training dataset. The hyperpara
 #### Self-Attention Mechanism on Testset in Krum Region
 <img src=doc/self-attention-krum.png width=99%>
 
+<!--
 #### Session Recording
 presentation starts 21m30s
 
 [![Phiweek Session ()](doc/video.png)](https://livestream.com/ESA/PhiWeek2019/videos/196081553)
+-->
