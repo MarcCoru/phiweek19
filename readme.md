@@ -14,7 +14,7 @@ For the Recurrence examples see `Recurrence.ipynb`
 
 #### Presentation
 
-Slides are available at `presentation.pdf`
+Slides are available at [`presentation.pdf`](presentation.pdf)
 
 ### Setup
 
@@ -23,11 +23,6 @@ conda create -n phiweek19 pip jupyter
 conda activate phiweek19
 pip install -r requirements.txt
 ```
-
-### Presentaiton Recording
-starts 23m30s
-
-[![Phiweek Session ()](doc/video.png)](https://livestream.com/ESA/PhiWeek2019/videos/196081553)
 
 ### Dataset separation
 
@@ -51,3 +46,8 @@ The model parameter were determined based on the training dataset. The hyperpara
 
 #### Self-Attention Mechanism on Testset in Krum Region
 <img src=doc/self-attention-krum.png width=99%>
+
+### Recording
+starts 21m30s
+
+[![Phiweek Session ()](doc/video.png)](https://livestream.com/ESA/PhiWeek2019/videos/196081553)
